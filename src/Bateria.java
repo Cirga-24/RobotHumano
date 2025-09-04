@@ -1,3 +1,5 @@
+/* Nuevo mensaje de prueba */
+
 public class Bateria {
     private int carga;
 
@@ -18,6 +20,6 @@ public class Bateria {
 
     @Override
     public String toString() {
-        return "Bateria= " + carga;
+        return "Bateria = " + carga;
     }
 }
